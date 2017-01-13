@@ -1,0 +1,8 @@
+virtualenv
+requests
+netaddr
+argparse
+pyang
+ncclient
+uniq
+ipaddress
